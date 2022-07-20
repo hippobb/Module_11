@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Lunch",
+      "detail": "Lunch with Peter"
+    },
+    {
+      "id": "0",
+      "title": "School",
+      "detail": "Class on Monday"
+    },
+    {
+      "id": "2",
+      "title": "Dinner",
+      "detail": "Dinner with Peter"
+    },
+    {
+      "id": "3",
+      "title": "BBQ",
+      "detail": "Buy Chicken Wing in Costco"
+    }
+  ]
+}
